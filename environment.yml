@@ -1,0 +1,12 @@
+name: kachestvo_2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - numpy
+  - matplotlib
+  - scipy
+  - appmode
+  - ipywidgets
+  - voila
